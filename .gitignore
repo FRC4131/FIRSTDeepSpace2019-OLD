@@ -1,0 +1,11 @@
+.gradle/
+build/
+.vscode/
+.wpilib/
+.classpath
+.project
+.settings/
+bin/
+FIRSTDeepSpace2019.iml
+FIRSTDeepSpace2019.ipr
+FIRSTDeepSpace2019.iws
