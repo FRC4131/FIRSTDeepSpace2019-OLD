@@ -20,6 +20,8 @@ import com.kauailabs.navx.frc.AHRS;
  */
 public class Robot extends IterativeRobot {
 
+  public MechDrive drive = new MechDrive(1, 2, 3, 4);
+
   /**
    * This function is run when the robot is first started up and should be
    * used for any initialization code.
